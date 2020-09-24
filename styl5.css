@@ -1,0 +1,64 @@
+body {
+    font-family: Verdana;
+    margin: 0px;
+}
+
+#miniatury {
+    background-color: sienna;
+    height: 100px;
+    width: 20%;
+    float: left;
+}
+
+#tytulowy {
+    background-color: sienna;
+    color: orange;
+    height: 100px;
+    width: 80%;
+    float: left;
+}
+
+#lewy {
+    background-color: burlywood;
+    height: 700px;
+    width: 70%;
+    float: left;
+}
+
+#prawy {
+    background-color: burlywood;
+    height: 700px;
+    width: 30%;
+    float: left;
+}
+
+#stopka {
+    background-color: sienna;
+    color: orange;
+    text-align: center;
+    clear: both;
+}
+
+img {
+    margin: 7px;
+    padding: 5px;
+    border: 1px solid rosybrown;
+}
+
+img:hover {
+    border-color: maroon;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
